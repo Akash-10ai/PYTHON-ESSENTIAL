@@ -1,4 +1,4 @@
-# taking two number
+# taking two numbers for sum
 
 num1 = 4
 num2 = 3
