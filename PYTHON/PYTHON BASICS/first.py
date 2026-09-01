@@ -1,8 +1,8 @@
 # print welcome message 
 
-message = 'hello '
+message = 'hello'
 
-name= "akash"
+name= "Akash"
 
 
 print(message+name)
