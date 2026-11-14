@@ -1,3 +1,5 @@
+
+#python program for insufficient fund using exception handling
 class InsufficientFundsError(Exception):
     pass
 
