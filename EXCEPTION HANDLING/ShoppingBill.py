@@ -1,3 +1,5 @@
+# to handle shopping bill error program 
+
 try:
     price = float(input("Enter product price: "))
     quantity = int(input("Enter quantity: "))
