@@ -1,3 +1,6 @@
+
+# to calculate nfibonacci using python function 
+
 def get_fibonacci_sequence(n): 
     if n <= 0: 
         return [] 
