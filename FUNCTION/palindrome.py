@@ -1,3 +1,6 @@
+# palindrome using python function
+
+
 def is_palindrome(text):
 
     cleaned_text = ''.join(text.split()).lower()
