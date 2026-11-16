@@ -1,3 +1,6 @@
+# to calculate nFactorial using python function 
+
+
 def calculate_factorial(n):
     """Calculates the factorial of a number using a loop."""
     if n < 0:
