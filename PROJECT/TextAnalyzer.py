@@ -1,3 +1,6 @@
+# created text analyser using class and object 
+
+
 givenstring="Lorem ipsum dolor! diam amet, consetetur Lorem magna. sed diam nonumy eirmod tempor. diam et labore? et diam magna. et diam amet."
 
 class TextAnalyzer(object):
