@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # pandas liabray to calculate total of product
 
 import pandas as pd
@@ -30,5 +30,5 @@ df = pd.DataFrame(data)
 df["Total"] = df["Price"] * df["Quantity"]
 print(df)
 
->>>>>>> e746f64fbecbe7aae80c695913befafb1744172c
+
 print("\nGrand total:", df["Total"].sum())
