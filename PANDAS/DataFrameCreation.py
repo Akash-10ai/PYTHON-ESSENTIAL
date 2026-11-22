@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import pandas as pd
 
 data = {
@@ -13,7 +13,7 @@ print("Shape:", df.shape)
 print("Columns:", df.columns.tolist())
 print(df.head(2))
 
-=======
+
 #python program to create dataframe using pandas 
 
 import pandas as pd
@@ -30,4 +30,3 @@ print("Shape:", df.shape)
 print("Columns:", df.columns.tolist())
 print(df.head(2))
 
->>>>>>> e746f64fbecbe7aae80c695913befafb1744172c
