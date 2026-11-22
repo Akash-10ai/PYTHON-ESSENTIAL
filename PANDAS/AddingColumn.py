@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import pandas as pd
 
 df = pd.DataFrame({
@@ -14,7 +14,7 @@ print("\nStudents with Total above 150:")
 print(df[df["Total"] > 150])
 
 print("\nSorted by Total (highest first):")
-=======
+
 
 #Python program to add two column of data set using panda
 import pandas as pd
@@ -32,5 +32,5 @@ print("\nStudents with Total above 150:")
 print(df[df["Total"] > 150])
 
 print("\nSorted by Total (highest first):")
->>>>>>> e746f64fbecbe7aae80c695913befafb1744172c
+
 print(df.sort_values("Total", ascending=False))
