@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import pandas as pd
 
 df = pd.DataFrame({
@@ -17,7 +17,7 @@ topper = df.loc[df["Total"].idxmax(), "Name"]
 print("Topper:", topper)
 
 print("\nAverage of each subject:")
-=======
+
 #Basics statistics using pandas in python
 
 import pandas as pd
@@ -38,5 +38,5 @@ topper = df.loc[df["Total"].idxmax(), "Name"]
 print("Topper:", topper)
 
 print("\nAverage of each subject:")
->>>>>>> e746f64fbecbe7aae80c695913befafb1744172c
+
 print(df[["Maths", "Science"]].mean())
